@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Alt text](KotlinDebugging.gif)
+![KotlinDebugging](https://user-images.githubusercontent.com/123886642/223007848-80235fca-948a-4fc5-b409-48a7f8036a31.gif)
 
 GIF created with **ScreenToGif**
 
